@@ -7,8 +7,6 @@ It contains TLS Encryption, Multi-Master Replication as configurable options.
 
 This Container uses [Debian:Jessue](http://www.debian.org) as a base, and also includes automated backups.
 
-
-
 [Changelog](CHANGELOG.md)
 
 # Authors
